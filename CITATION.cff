@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite it as below and link to https://familyestateguide.com/estate-planning-data/silver-tsunami-homes-by-state/
+type: dataset
+title: 'Silver Tsunami Homes by State and County: Owner-Occupied Homes Headed by Seniors 65+ and 75+'
+abstract: Counts, shares and aggregate value of owner-occupied homes whose householder is 65+ or 75+, for every state (ACS 2024 1-year) and every county (ACS 2020-2024 5-year).
+authors:
+- name: Family Estate Guide
+  website: https://familyestateguide.com
+version: 1.0.0
+date-released: '2026-10-02'
+url: https://familyestateguide.com/estate-planning-data/silver-tsunami-homes-by-state/
+repository-code: https://github.com/jameyriley46-ux/familyestateguide-silver-tsunami-homes-by-state
+license: CC-BY-4.0
+keywords:
+- silver tsunami
+- senior homeowners
+- housing
+- baby boomers
+- home value
+- ACS
+- county data
+- state data
+- estate planning
